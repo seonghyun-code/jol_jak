@@ -6,3 +6,6 @@ https://learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-spee
 
 onnx 파일은 첨부 안 했어유!
 <br> pytorch_model_forwardtime : 우리 실습 내용에서는 execution time을 구해야 하는데 원본에는 없길래.. 나름 검색해서 추가해본 파일! 맞는지는 모름...ㅎㅎ :D 참고만 plz
+
+내가 쓴 colab 환경
+<img width="213" alt="colab 환경" src="https://user-images.githubusercontent.com/68731647/117491053-a4da4080-afaa-11eb-8f03-b906d5c6d28f.png">
