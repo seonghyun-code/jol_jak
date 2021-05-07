@@ -53,7 +53,7 @@ def main():
     mobilenet_v2 = models.mobilenet_v2(pretrained=True)
 
     # preprocessing stage ----------------------------------------------------------------------------------------------
-    input_batch = preprocess_image("/content/turkish_coffee.jpg").cuda()
+    input_batch = preprocess_image("/content/turkish_coffee.jpg").cuda() # 경로 주의
 
     # inference stage --------------------------------------------------------------------------------------------------
     mobilenet_v2.eval()
