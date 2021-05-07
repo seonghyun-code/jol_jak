@@ -13,3 +13,7 @@ https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT
 
 ### 5. 내가 쓴 colab 환경
 <img width="213" alt="colab 환경" src="https://user-images.githubusercontent.com/68731647/117491053-a4da4080-afaa-11eb-8f03-b906d5c6d28f.png">
+
+### 6. tmi
+그 시간 계산하는 부분에서 1000 나눠줬는데 나눠주는 게 맞는 건지 아닌지 100이나 10으로 나눠줘야 하는지는 모르겠다 ^_^... 흐흐
+<br> 그런데 2번에서 1000으로 나눠줘야 time으로 구했을 때(1번)랑 거의 같길래 1000으로 나눴습니다.
