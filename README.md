@@ -1,7 +1,7 @@
 # jol_jak
 ### 내용
 https://learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/
-<br>위의 주소 내용을 참조해주면 됩니당!
+<br>위의 주소 내용을 참조해주면 됩니당! (~ch2)
 
 ### 원본 파일
 https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT
